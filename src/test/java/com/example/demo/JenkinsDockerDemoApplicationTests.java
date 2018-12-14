@@ -17,5 +17,10 @@ public class JenkinsDockerDemoApplicationTests {
 		assertEquals(true, true);
 	}
 
+	@Test
+	public void someTest(){
+		assertEquals("test fail",true, true);
+	}
+
 }
 
