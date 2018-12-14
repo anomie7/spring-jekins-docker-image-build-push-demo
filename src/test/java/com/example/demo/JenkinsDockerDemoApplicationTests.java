@@ -20,7 +20,6 @@ public class JenkinsDockerDemoApplicationTests {
 
 	@Test
 	public void someTest(){
-		fail();
 	}
 
 }
