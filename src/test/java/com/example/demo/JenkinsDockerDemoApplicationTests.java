@@ -14,6 +14,7 @@ public class JenkinsDockerDemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		assertEquals(true, true);
+		assertEquals(true, true);
 	}
 
 }
